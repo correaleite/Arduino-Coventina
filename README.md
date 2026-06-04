@@ -32,6 +32,7 @@ Quando a profundidade máxima é alcançada, o sistema informa que a escavação
 ## Estrutura do Circuito
 ### Ligações do LCD 16x2
 LCD	/ Arduino<br>
+
 GND - GND<br>
 VCC - 5V<br>
 VO - Potenciômetro (meio)<br>
@@ -47,6 +48,7 @@ LED Cátodo (-) - GND
 
 ### Ligações do HC-SR04
 HC-SR04 /	Arduino<br>
+
 VCC - 5V<br>
 GND -	GND<br>
 TRIG - D6<br>
@@ -54,16 +56,19 @@ ECHO - D7<br>
 
 ### Ligações do Botão
 Botão /	Arduino<br>
+
 Terminal 1 - D8<br>
 Terminal 2 - GND<br>
 
 ### Ligações do LED
 LED /	Arduino<br>
+
 Ânodo (+) - Resistor 220 Ω -	D13<br>
 Cátodo (-) - GND<br>
 
 ### Ligações do Potenciômetro<br>
 Potenciômetro / Arduino<br>
+
 Potenciômetro (esquerda) - 5V<br>
 Potenciômetro (direita) - GND<br>
 
