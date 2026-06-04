@@ -1,7 +1,7 @@
 # Arduino-Coventina
 
 ## Descrição do projeto
-Simulação de um arduino com sensor e lcd feito para o nosso robô Coventina que será enviado a lua para perfurar e coletar gelo lunar.
+Simulação de um arduino com um sensor e LCD para o nosso robô Coventina que será enviado a lua para perfurar e coletar gelo lunar.
 
 ## Objetivo da solução
 O circuito criado na simulação realiza duas funções essenciais para que a extração de gelo lunar dê certo. Coventina possui um sensor que detecta objetos para evitar a colisão do robô enquanto ele se desloca para o local designado da missão, e ao ser ativado o robô irá iniciar a escavação ao mesmo tempo mostrando a profundidade perfurada. 
@@ -83,6 +83,9 @@ Potenciômetro (direita) - GND<br>
 8. Durante as operações de escavação e retração, o LED permanecerá aceso indicando que o processo está em execução.
 
 ## Grupo
-- Antônio Andrade
+- Antônio Andrade Almeida
 - Gabriel Correa Leite
 - Lucas Coimbra Carty
+
+## Link Tinkercad
+https://www.tinkercad.com/things/2k4XKtyhiI6-gs-coventina-sensor-e-escavadeira-?sharecode=pnjxTSNR_PdczqkueUJrNl_SUPhGZq4YKIqMzY-kZ48
