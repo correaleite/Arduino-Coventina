@@ -30,7 +30,7 @@ Além do sistema de detecção de obstáculos, o robô possui uma função de es
 Quando a profundidade máxima é alcançada, o sistema informa que a escavação foi concluída. Um novo acionamento do botão faz com que a escavadeira seja retraída, reduzindo gradualmente a profundidade até retornar a 0 cm. Durante o processo, um LED permanece aceso para indicar que a operação de escavação ou retração está em andamento.
 
 ## Estrutura do Circuito
-Ligações do LCD 16x2
+Ligações do LCD 16x2<br>
 LCD	/ Arduino
 GND - GND
 VCC - 5V
