@@ -124,11 +124,11 @@ ultimoEstadoBotao = estadoAtual;
   }
   else if (distance <= 50)
   {
-    lcd_1.print("PRECAUCAO");
+    lcd_1.print("! ATENCAO !");
   }
   else
   {
-    lcd_1.print("LIVRE");
+    lcd_1.print("CAMINHO LIVRE");
   }
 
   delay(250);
