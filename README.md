@@ -20,10 +20,10 @@ O circuito criado na simulação realiza duas funções essenciais para que a ex
 ## Explicação do funcionamento
 O sensor ultrassônico monitora continuamente a distância entre o robô e obstáculos à sua frente. As informações são exibidas no display LCD juntamente com mensagens de alerta de acordo com a proximidade detectada:
 
-Acima de 50 cm: caminho livre.
-Entre 35 cm e 50 cm: precaução.
-Entre 20 cm e 35 cm: cuidado.
-Abaixo de 20 cm: perigo.
+Acima de 50 cm: caminho livre.<br>
+Entre 35 cm e 50 cm: precaução.<br>
+Entre 20 cm e 35 cm: cuidado.<br>
+Abaixo de 20 cm: perigo.<br>
 
 Além do sistema de detecção de obstáculos, o robô possui uma função de escavação simulada. Ao pressionar o botão, o sistema inicia uma sequência de escavação, exibindo no LCD mensagens de status e a profundidade atingida pela escavadeira, que aumenta gradualmente até 500 cm.
 
