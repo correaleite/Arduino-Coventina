@@ -21,7 +21,7 @@ O circuito criado na simulação realiza duas funções essenciais para que a ex
 O sensor ultrassônico monitora continuamente a distância entre o robô e obstáculos à sua frente. As informações são exibidas no display LCD juntamente com mensagens de alerta de acordo com a proximidade detectada:
 
 Acima de 50 cm: caminho livre.<br>
-Entre 35 cm e 50 cm: precaução.<br>
+Entre 35 cm e 50 cm: atenção.<br>
 Entre 20 cm e 35 cm: cuidado.<br>
 Abaixo de 20 cm: perigo.<br>
 
