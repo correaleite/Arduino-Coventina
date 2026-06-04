@@ -31,41 +31,41 @@ Quando a profundidade máxima é alcançada, o sistema informa que a escavação
 
 ## Estrutura do Circuito
 Ligações do LCD 16x2<br>
-LCD	/ Arduino
-GND - GND
-VCC - 5V
-VO - Potenciômetro (meio)
-RS - D12
-RW - GND
-E -	D11
-DB4 - D5
-DB5 - D4
-DB6 - D3
-DB7 - D2
-LED Ânodo (+) - Resistor 220 Ω - 5V
+LCD	/ Arduino<br>
+GND - GND<br>
+VCC - 5V<br>
+VO - Potenciômetro (meio)<br>
+RS - D12<br>
+RW - GND<br>
+E -	D11<br>
+DB4 - D5<br>
+DB5 - D4<br>
+DB6 - D3<br>
+DB7 - D2<br>
+LED Ânodo (+) - Resistor 220 Ω - 5V<br>
 LED Cátodo (-) - GND
 
-Ligações do HC-SR04
-HC-SR04 /	Arduino
-VCC - 5V
-GND -	GND
-TRIG - D6
-ECHO - D7
+Ligações do HC-SR04<br>
+HC-SR04 /	Arduino<br>
+VCC - 5V<br>
+GND -	GND<br>
+TRIG - D6<br>
+ECHO - D7<br>
 
-Ligações do Botão
-Botão /	Arduino
-Terminal 1 - D8
-Terminal 2 - GND
+Ligações do Botão<br>
+Botão /	Arduino<br>
+Terminal 1 - D8<br>
+Terminal 2 - GND<br>
 
-Ligações do LED
-LED /	Arduino
-Ânodo (+) - Resistor 220 Ω -	D13
-Cátodo (-) - GND
+Ligações do LED<br>
+LED /	Arduino<br>
+Ânodo (+) - Resistor 220 Ω -	D13<br>
+Cátodo (-) - GND<br>
 
-Ligações do Potenciômetro
-Potenciômetro / Arduino
-Potenciômetro (esquerda) - 5V
-Potenciômetro (direita) - GND
+Ligações do Potenciômetro<br>
+Potenciômetro / Arduino<br>
+Potenciômetro (esquerda) - 5V<br>
+Potenciômetro (direita) - GND<br>
 
 ## Instruções de execução
 1. Inicie a simulação ou energize o circuito.
