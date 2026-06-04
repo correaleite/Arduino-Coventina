@@ -1,5 +1,4 @@
 #include <LiquidCrystal.h>
-
 // LCD
 LiquidCrystal lcd_1(12, 11, 5, 4, 3, 2);
 
