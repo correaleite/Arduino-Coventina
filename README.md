@@ -81,3 +81,8 @@ Potenciômetro (direita) - GND<br>
 6. Após a conclusão da escavação, pressione novamente o botão (2s) para iniciar a retração da escavadeira.
 7. Após a retração completa, o sistema retorna ao modo de monitoramento de obstáculos.
 8. Durante as operações de escavação e retração, o LED permanecerá aceso indicando que o processo está em execução.
+
+## Grupo
+- Antônio Andrade
+- Gabriel Correa Leite
+- Lucas Coimbra Carty
