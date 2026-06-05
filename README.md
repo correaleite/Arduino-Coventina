@@ -76,9 +76,9 @@ Potenciômetro (direita) - GND<br>
 1. Inicie a simulação ou energize o circuito.
 2. Ajuste o potenciômetro até que as informações sejam exibidas corretamente no LCD.
 3. Observe a distância medida pelo sensor ultrassônico e os alertas apresentados no display.
-4. Pressione o botão (2s) para iniciar a simulação de escavação.
+4. Pressione o botão (1s) para iniciar a simulação de escavação.
 5. Aguarde a profundidade atingir 500 cm.
-6. Após a conclusão da escavação, pressione novamente o botão (2s) para iniciar a retração da escavadeira.
+6. Após a conclusão da escavação, pressione novamente o botão (1s) para iniciar a retração da escavadeira.
 7. Após a retração completa, o sistema retorna ao modo de monitoramento de obstáculos.
 8. Durante as operações de escavação e retração, o LED permanecerá aceso indicando que o processo está em execução.
 
